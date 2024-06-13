@@ -1,6 +1,6 @@
 # my-react-app
 
-This is the React challenge abuot 
+This is the React challenge about the "Box Selection" 
 
 ## Installation
 
